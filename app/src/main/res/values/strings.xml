@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sports Catalogue</string>
+    <string name="description">Description</string>
+    <string name="no_data">Empty Data</string>
+    <string name="favorite_user_list">Favorite User List</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
