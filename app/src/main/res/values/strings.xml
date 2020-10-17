@@ -4,4 +4,6 @@
     <string name="no_data">Empty Data</string>
     <string name="favorite_user_list">Favorite User List</string>
     <string name="title_favorite">Favorite</string>
+    <string name="power_connected">Power connected!</string>
+    <string name="power_disconnected">Power disconnected!</string>
 </resources>
